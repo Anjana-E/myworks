@@ -16,7 +16,7 @@ background-image: url("https://assets.entrepreneur.com/content/3x2/1300/20150814
     box-sizing: border-box;
     }
      
-    .button{
+    button{
     background-color:#4CAF50;
     width: 10%;
     padding: 9px 5px;
@@ -28,7 +28,7 @@ background-image: url("https://assets.entrepreneur.com/content/3x2/1300/20150814
     font-weight: bold;
     }
      
-    .button:hover{
+    button:hover{
     opacity:0.8;
     }
      
